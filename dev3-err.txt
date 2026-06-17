@@ -1,0 +1,91 @@
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⨯ ./app/page.js:157:7
+Expression expected
+  [90m155 |[0m         onCancel={() => setAlertMsg([32m""[0m)}
+  [90m156 |[0m       />
+[31m[1m>[0m [90m157 |[0m     </>
+  [90m    |[0m       [31m[1m^[0m
+  [90m158 |[0m   );
+  [90m159 |[0m }
+  [90m160 |[0m
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+⨯ ./app/page.js:157:7
+Expression expected
+  [90m155 |[0m         onCancel={() => setAlertMsg([32m""[0m)}
+  [90m156 |[0m       />
+[31m[1m>[0m [90m157 |[0m     </>
+  [90m    |[0m       [31m[1m^[0m
+  [90m158 |[0m   );
+  [90m159 |[0m }
+  [90m160 |[0m
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+⨯ ./app/page.js:157:7
+Expression expected
+  [90m155 |[0m         onCancel={() => setAlertMsg([32m""[0m)}
+  [90m156 |[0m       />
+[31m[1m>[0m [90m157 |[0m     </>
+  [90m    |[0m       [31m[1m^[0m
+  [90m158 |[0m   );
+  [90m159 |[0m }
+  [90m160 |[0m
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+[browser] Uncaught Error: ./app/page.js:157:7
+Expression expected
+  155 |         onCancel={() => setAlertMsg("")}
+  156 |       />
+> 157 |     </>
+      |       ^
+  158 |   );
+  159 | }
+  160 |
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./app/page.js [Client Component Browser]
+    ./app/page.js [Server Component]
+
+  Client Component SSR:
+    ./app/page.js [Client Component SSR]
+    ./app/page.js [Server Component]
+
+
+    at <unknown> (Error: ./app/page.js:157:7)
+    at <unknown> (Error: (./app/page.js:157:7)
