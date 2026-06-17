@@ -2,6 +2,7 @@
 
 SplitMate is a responsive expense-sharing web app that helps groups manage shared bills, calculate individual balances, and generate an optimized settlement plan. It runs fully in the browser using client-side storage, with no backend or login required.
 
+Live tool URL: https://splitmate-bill-splitter.vercel.app
 
 ## Key Highlights
 
